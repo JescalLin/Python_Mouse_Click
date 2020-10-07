@@ -1,14 +1,9 @@
 import sys
 import threading
-import cv2
 import pyautogui
-import time
 from PyQt5.QtCore import QThread
 from PyQt5 import QtCore, QtGui, QtWidgets
-from PyQt5.QtGui import QImage, QPixmap
-from PyQt5.QtWidgets import QApplication, QMainWindow, QDialog, QFileDialog, QGridLayout, QLabel, QPushButton, QMessageBox 
-from PyQt5.QtCore import QThread, pyqtSignal
-from PyQt5.QtWidgets import QMainWindow
+from PyQt5.QtWidgets import QApplication,QMainWindow, QLabel, QPushButton
 from Ui_cv_plus import Ui_MainWindow
 
 pyautogui.PAUSE = 0.05
