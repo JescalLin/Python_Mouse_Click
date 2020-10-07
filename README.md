@@ -6,3 +6,5 @@ pip install pyqt5
 pip install pyqt5-tools
 
 pip install pyautogui
+
+python Ui_cv_plus_main.py
