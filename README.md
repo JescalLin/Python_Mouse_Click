@@ -1,4 +1,4 @@
-# python_marco
+# python_mouth_click
 使用pyautogui &amp; pyqt5做的滑鼠連點程式
 
 ![image](https://github.com/JescalLin/python_marco/blob/master/1602060045009.gif)
